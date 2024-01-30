@@ -1,0 +1,11 @@
+### create video drop message
+GET  http://localhost:3000
+content-type: application/json
+
+
+### Create a ticket
+POST  http://localhost:3000/ticket
+
+
+### Create an order
+POST  http://localhost:3000/order

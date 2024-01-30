@@ -1,0 +1,21 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "elevista",
+    "leaderboard",
+    "minio",
+    "MINIO",
+    "promat",
+    "promats",
+    "pukket",
+    "signin",
+    "signup",
+    "timestamptz",
+    "typeorm",
+    "UMAMI",
+    "uuid",
+    "uuidv4",
+    "ytdl"
+  ]
+}
